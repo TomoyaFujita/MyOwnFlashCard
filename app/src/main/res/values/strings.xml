@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">私だけの単語帳</string>
+
+    <!--activity_mainで使用 -->
+    <string name="change_color">画面の背景色を変えたい場合は下のボタンを押してください</string>
+    <string name="word_list">登録されている単語一覧</string>
+
+    <string name="instruction_word_list">矯正はその単語をタップ、削除は単語を長押ししてください</string>
+
+    <string name="edit_instruction">問題と答えを入力してボタンを押してください</string>
+
+    <!-- ステータス -->
+    <string name="status_add">新しい単語の追加</string>
+    <string name="status_change">登録した単語の修正</string>
+    <string name="intent_key_status">intent_key_status</string>
+</resources>
